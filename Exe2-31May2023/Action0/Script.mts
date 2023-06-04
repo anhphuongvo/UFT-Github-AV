@@ -1,0 +1,1 @@
+﻿RunAction "AOS Shopping", oneIteration
